@@ -9,4 +9,6 @@
 add test01
 modify
 
-add test02 offline
+add test02 online
+
+add test03
