@@ -8,3 +8,5 @@
 ```
 add test01
 modify
+
+add test02 offline
